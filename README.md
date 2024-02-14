@@ -1,10 +1,10 @@
-# PostgresSQL Exercise
+# PostgreSQL Exercise
 
-Connecting Python to a back=end Database
+Connecting Python to a back-end Database
 
 <hr>
 In this exercise we will install the PostgreSQL database management system (DBMS), add some data to it and then access that data using Python.
-</hr>
+<hr>
 
 ## Installing PostgreSQL
 
@@ -12,7 +12,7 @@ Follow these steps to install the PostgreSQL DBMS on your local computer.
 
 ### Download and Install
 
-    `[text](https://www.postgresql.org/download/)`
+    [PostgreSQL](https://www.postgresql.org/download/)
 
     This dowmloads the installer app which will then install the DBMS.
 
