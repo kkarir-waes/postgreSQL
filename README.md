@@ -12,7 +12,7 @@ Follow these steps to install the PostgreSQL DBMS on your local computer.
 
 ### Download and Install
 
-    [PostgreSQL](https://www.postgresql.org/download/)
+    [PostgreSQL](https://www.postgresql.org/download/).
 
     This dowmloads the installer app which will then install the DBMS.
 
@@ -43,7 +43,6 @@ Follow these steps to install the PostgreSQL DBMS on your local computer.
 ![System Path](image-1.png)
     
 
-    https://www.waes.ac.uk/
+  [WEAS](https://www.waes.ac.uk/)
 
 
-    
